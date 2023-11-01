@@ -85,5 +85,3 @@ for item in my_list:
 
 # Other operations are also available, such as min, max, and more.
 ```
-
-This linked list implementation provides a wide range of operations for manipulating, querying, and working with linked lists in Python.
